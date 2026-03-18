@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Obra-Prima",
+  "base_artist": "Novatroop",
+  "createdAt": "2026-03-18T13:49:47.258996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Obra-Prima",
+      "artist": "Novatroop",
+      "has_synced": true,
+      "path": "select/01_Obra-Prima_Novatroop.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Obra-Prima | Novatroop | Choso (Jujutsu Kaisen)",
+      "artist": "Novatroop",
+      "has_synced": true,
+      "path": "select/02_Obra-Prima___Novatroop___Choso_(Jujutsu_Kaisen)_Novatroop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Obra-Prima",
+      "artist": "Yung Jüse",
+      "has_synced": true,
+      "path": "select/03_Obra-Prima_Yung_Jüse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Obra Prima",
+      "artist": "Nauta",
+      "has_synced": true,
+      "path": "select/04_Obra_Prima_Nauta.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Obra Prima",
+      "artist": "Mc Jefinho Bh",
+      "has_synced": false,
+      "path": "select/05_Obra_Prima_Mc_Jefinho_Bh.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Obra Prima",
+      "artist": "Faria Mc",
+      "has_synced": false,
+      "path": "select/06_Obra_Prima_Faria_Mc.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Obra Prima",
+      "artist": "Indie Space",
+      "has_synced": true,
+      "path": "select/07_Obra_Prima_Indie_Space.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Obra Prima",
+      "artist": "Nora Ney",
+      "has_synced": true,
+      "path": "select/08_Obra_Prima_Nora_Ney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Obra Prima",
+      "artist": "Catedral",
+      "has_synced": true,
+      "path": "select/09_Obra_Prima_Catedral.lrc"
+    }
+  ]
+}
