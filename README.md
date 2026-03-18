@@ -1,0 +1,69 @@
+# Novatroop – Obra-Prima
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.52] Monte, minha parte
+[00:08.23] Um quadro, só com hemoglobina
+[00:11.81] (Só com hemoglobina)
+[00:15.37] Sangue, arte, juntos é uma Obra-Prima!
+[00:23.02] (É uma Obra-Prima)
+[00:32.02] 
+[00:25.83] Esperança se foi
+[00:28.23] Quando meu trato quebrei
+[00:30.68] (Meu trato quebrei)
+[00:31.75] Pois não os protegi
+[00:41.25] 
+[00:35.99] Vingança ferve
+[00:38.14] Sangue, por vocês terei!
+[00:40.69] (Por vocês terei)
+[00:41.67] Eu juro conseguir
+[00:44.58] Com
+[00:46.08] 
+[00:45.68] Sangue, pintura, minha
+[00:49.10] Obra-Prima! (Prima)
+[00:55.43] Sangue, pintura, faça
+[00:59.27] Com hemoglobina (-ina!)
+[01:10.77] 
+[01:05.47] Um nascer tão moldado, surgiu
+[01:07.96] Alguém entre os dois lados caminha
+[01:10.52] Mas será que era tão exclusivo?
+[01:12.94] Sua alma não está sozinha
+[01:25.44] 
+[01:16.22] E a minha
+[01:17.88] Promessa que fiz era proteger
+[01:21.21] E a minha
+[01:22.35] Função era só cumprir o meu dever
+[01:38.85] 
+[01:25.38] Esperança se foi
+[01:28.03] Quando meu trato quebrei
+[01:30.89] (Meu trato quebrei)
+[01:31.85] Pois não os protegi
+[01:41.35] 
+[01:35.26] Vingança ferve
+[01:37.81] Sangue, por vocês terei!
+[01:40.58] (Por vocês terei)
+[01:41.87] Eu juro conseguir
+[01:44.59] Com
+[01:46.09] 
+[01:45.51] Sangue, pintura, minha
+[01:49.20] Obra-Prima! (Prima)
+[01:55.52] Sangue, pintura, faça
+[01:59.19] Com hemoglobina (-ina!)
+[02:10.69] 
+[02:05.76] Sinta, deixa o sangue se transformar
+[02:13.72] Eu só peço que
+[02:15.44] Sinta, viva, seja, deixa tudo
+[02:21.75] (Por inteiro te tomar!)
+[02:33.25] 
+[02:25.50] Sinta, viva, seja, deixa
+[02:30.91] O sangue te tomar!
+[02:35.75] Sinta, viva, seja, deixa
+[02:41.20] Deixe te controlar!
+[02:43.74] Deixe o
+[02:47.24] 
+[02:45.52] Sangue, pintura, minha
+[02:49.47] Obra-Prima! (Prima)
+[02:55.41] Sangue, pintura, faça
+[02:59.23] Com hemoglobina (-ina!)
+```
